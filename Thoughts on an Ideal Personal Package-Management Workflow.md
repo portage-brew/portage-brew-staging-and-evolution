@@ -38,6 +38,7 @@
 
 - If upstream provides a configuration option for a package, then the new package manager should have a corresponding build-recipe option to trigger using it, _with few to no exceptions!_  (That's not to say that this would necessarily be the case at first or that they'd all work all the time, though effort should be made to ensure that option breakage is as minimized and limited in temporal scope as possible.)  
 - If something's broken or not yet supported or otherwise available, it should error out as early as possible, preferrably with a message provided before any involved build recipes invoke package configuration and build steps.  (Homebrew already does this, to some extent, but it doesn't have this principle codified explicitly.)  
+- Integration between any package manager derived from the ideas presented here and programming-language–specific package managers is seamless and completely painless:  users should be able to access programming-language–specific packages as if they were packages native to any package manager meeting the criteria listed in this document.  
 
 ## Sources
 
