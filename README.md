@@ -4,6 +4,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've used [Homebrew](https://github.com/Homebrew/brew) as my system package manager since August 22<sup>nd</sup>, 2014, but have become increasingly dis-satisfied with it over the past few years.  Homebrew has changed from being a 'from-source' package manager vending packages suitable for arbitrary user configuration to being a binary package manager distributing packages with limited end-user configurability.  I therefore thought I'd put some personal musings on what I might consider an ideal package-management workflow and what would enable it down for future reference.  (Note, however, that I do not personally have the resources to expand further upon this at the present time.)  
 
+## Minimal Guiding Principles
+
+- Upstream's source code is always the ultimate source of truth.  
+- End-user package configurability must remain maximized.  
+- A package manager's community's members should do their utmost to ensure that they maintain robust support for each other's use cases.  
+
 ## Ideas
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If I were to construct a package manager and package-management ecosystem and workflow from scratch, here's what I'd take inspiration from:  
