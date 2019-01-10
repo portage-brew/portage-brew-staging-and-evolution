@@ -75,3 +75,5 @@ Copied from [a comment on the Gist this used to be](http://web.archive.org/web/2
 > ---
 >
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, bonus points go to whoever, me or otherwise, might pick this up in future if they can make migrating to this new solution from at least one existing package manager, namely Homebrew, as painless as possible.  (It would be awesome if somebody could do this for _all_ package managers, but that's…a daunting task to ask of anyone.)  
+
+(Editor's Note:  See also [issue #4](https://github.com/portage-brew/portage-brew/issues/4).)  
