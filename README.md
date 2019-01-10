@@ -44,3 +44,28 @@
 
 - [Homebrew's home page](https://brew.sh/ "Home Page For 'Homebrew:  The missing package manager for macOS.'") and content linked form there. 
 - The [Gentoo wiki](https://wiki.gentoo.org/wiki/Main_Page)'s [main 'Foundation' page](https://wiki.gentoo.org/wiki/Foundation:Main_Page)
+
+---
+
+Copied from [a comment on the Gist this used to be](http://web.archive.org/web/20190110205134/https://gist.github.com/RandomDSdevel/50d39b326855b454237b14a091a907db#gistcomment-2793793):  
+
+> &nbsp;&nbsp;&nbsp;&nbsp;Some additional notes:  
+>
+> 1. This is likely and obviously incomplete.  
+> 1. I can't personally pursue any sort of project which this document might imply at the moment.  
+> 1. If anybody wants to pilfer any of the ideas listed here for future improvements to an existing package manager, a novel package manager, or a fork of an existing package manager, feel free to go ahead and do just that.  
+> 1. I may eventually move this into [my 'RandomDSdevel Evolution' repository](https://github.com/RandomDSdevel/RandomDSdevel-Evolution) or reference whatever other repository this document ends up in there by including it as a Git submodule.  
+>
+> ⋮
+
+(Editor's Note:  Moved, but not yet referenced elsewhere.)  
+
+> ⋮
+>
+> With respect to point 3, CC @chdiza, @zbeekman, @DomT4, @blogabe, and @danieljl because of the nature of their participation in Homebrew/homebrew-core#31510, which is what finally inspired me to type these initial pondering up.  
+>
+> (Edit:  Added @danieljl to the list of potentially interested GitHub users above.)  
+>
+> ---
+>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, bonus points go to whoever, me or otherwise, might pick this up in future if they can make migrating to this new solution from at least one existing package manager, namely Homebrew, as painless as possible.  (It would be awesome if somebody could do this for _all_ package managers, but that's…a daunting task to ask of anyone.)  
