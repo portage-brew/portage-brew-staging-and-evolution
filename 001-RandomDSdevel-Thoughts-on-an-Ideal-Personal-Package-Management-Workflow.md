@@ -1,4 +1,4 @@
-# Thoughts on an Ideal Personal Package-Management Workflow
+# @RandomDSdevel's Thoughts on an Ideal Personal Package-Management Workflow
 
 ## Introduction
 
