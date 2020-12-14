@@ -1,6 +1,6 @@
 # **NOTICE!!!**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository has been deprecated and will soon get archived in favor of using GitHub Discussions, currently [directly on the main portage-brew/brew repository](https://github.com/portage-brew/brew/discussions)!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This repository has been deprecated and will soon get archived in favor of using [GitHub Discussions in the 'portage-brew/discussions' repository](https://github.com/portage-brew/discussions/discussions)!  
 
 ---
 
